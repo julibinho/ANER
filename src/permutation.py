@@ -4,9 +4,9 @@ import random
 import sys
 import pandas as pd
 import numpy as np
-import pca_ranking
-import AnerLib
-import parameters
+import aner.pca_ranking
+import aner.AnerLib
+import aner.parameters
 from optparse import OptionParser
 
 

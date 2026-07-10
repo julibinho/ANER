@@ -5,8 +5,8 @@ import random
 import sys
 import pandas as pd
 import numpy as np
-import pca_ranking
-import parameters
+import aner.pca_ranking
+import aner.parameters
 
 #----------------------------- Args and constants ----------------------
 # Define the number of permutations

@@ -1,5 +1,5 @@
-import aner.AnerLib
-import aner.parameters
+import aner.AnerLib as AnerLib 
+import aner.parameters as parameters
 import networkx as nx
 from networkx.algorithms.approximation import clique
 from scipy.spatial import distance

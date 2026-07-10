@@ -109,4 +109,4 @@ Two files will be produced:
 * Oocytes_pca_50_permutations.csv
 
 ## License, Patches, and Ongoing Developements
-[Licence]([other_file.md](https://github.com/julibinho/ANER/blob/src/LICENCE)
+[Licence](https://github.com/julibinho/ANER/tree/src/LICENCE)
